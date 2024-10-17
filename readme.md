@@ -78,3 +78,9 @@ sudo waydroid init --system_channel=https://ota.waydro.id/system --vendor_channe
 sudo waydroid upgrade
 ```
 
+# special thanks to
+
+- @Benjamin-Loison for building android 13 image
+- waydroid developers
+- lineage os developers
+
