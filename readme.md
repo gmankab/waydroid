@@ -80,7 +80,7 @@ sudo waydroid upgrade
 
 # special thanks to
 
-- @Benjamin-Loison for building android 13 image
+- @Benjamin-Loison for building android 13 image - https://github.com/Benjamin-Loison/waydroid/issues/16#issuecomment-2226210183
 - waydroid developers
 - lineage os developers
 
