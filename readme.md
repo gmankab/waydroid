@@ -3,7 +3,7 @@
 
 ### cleanup
 
-if you messed up your waydroid installation, you can clean it up
+if you messed up your waydroid installation, you can clean it up, all your apps and data will be deleted
 
 ```
 sudo systemctl stop waydroid-container.service
@@ -70,6 +70,8 @@ waydroid show-full-ui
 ```
 
 ### go back to android 11
+
+all your apps and data will be deleted
 
 ```shell
 sudo systemctl stop waydroid-container.service
