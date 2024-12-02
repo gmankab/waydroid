@@ -54,7 +54,7 @@ if you succeeded to start android 11, then you can try to start android 13
 ```shell
 sudo curl -L https://github.com/gmankab/waydroid/releases/download/jul-12-2024/system.img -o /etc/waydroid-extra/images/system.img --create-dirs
 sudo curl -L https://github.com/gmankab/waydroid/releases/download/jul-12-2024/vendor.img -o /etc/waydroid-extra/images/vendor.img --create-dirs
-sudo waydroid init -f -i /usr/share/waydroid-extra/images
+sudo waydroid init -f -i /etc/waydroid-extra/images
 ```
 
 #### start waydroid container service
